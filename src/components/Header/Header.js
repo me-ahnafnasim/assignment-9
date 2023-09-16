@@ -9,7 +9,7 @@ const Header = () => {
         <nav style={{boxShadow: "rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 9px" }} className="flex items-center justify-between flex-wrap p-3 md:p-6 border-gray-200 dark:bg-gray-900">
         <div className="flex items-center flex-shrink-0 text-white mr-6 lg:mr-72">
         <Link  to='/'>
-        {/* <img src="https://flowbite.com/docs/images/logo.svg" className="h-8 mr-3" alt="Flowbite Logo" /> */}
+       
         <img className='border-double border-1 white-500' src="https://png.pngtree.com/png-vector/20220816/ourmid/pngtree-a-vector-illustration-depicting-the-mascot-of-a-bald-eagle-with-a-graphical-head-vector-png-image_3027085.png" className="h-8 mr-3" alt="Flowbite Logo" />
         </Link>
        
