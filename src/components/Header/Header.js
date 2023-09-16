@@ -14,7 +14,7 @@ const Header = () => {
         </Link>
        
         </div>
-        <div className="block lg:hidden">
+        <div className="block lg:hidden ">
           <button
             onClick={() => setIsOpen(!isOpen)}
             className="flex items-center px-3 py-2 rounded text-black-500 hover:text-black-400"
@@ -50,9 +50,7 @@ const Header = () => {
             </Link>
             
           </div>
-          <div>
-          
-          </div>
+
         </div>
       </nav>      
         

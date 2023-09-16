@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 
 const UiData = ({ data }) => {
-  
+  //console.log(data)
   return (
     <div>
     <div className="mb-10">

@@ -4,7 +4,7 @@ import { useLoaderData } from 'react-router-dom';
 
 function QuestionComponent() {
   const questionObject = useLoaderData()
-  
+  //console.log(questionObject)
 
   const [selectedAnswers, setSelectedAnswers] = useState({});
 
