@@ -16,7 +16,7 @@ const Blog = () => {
                     <div className="p-8">
                     
                     <Link href="#" class="block mt-1 text-lg leading-tight font-medium text-black hover:underline">what is the perpose of react-router?</Link>
-                   <p class="mt-2 text-slate-500">React Router is a popular library in the React ecosystem 
+                   <p class="mt-2 text-slate-500">React Router is a popular-library in the React ecosystem 
                    that provides dynamic routing capabilities to single-page applications (SPAs). It addresses
                     the need for navigation and URL management within React applications, enabling developers to 
                     create more sophisticated and user-friendly web experiences.
