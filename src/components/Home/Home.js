@@ -5,7 +5,7 @@ import UiData from '../UiData/UiData';
 
 const Home = () => {
     const datum =  useLoaderData();
-    //console.log(datum.data[0].id);
+    
     return (
         <div className=''>
            <div>
